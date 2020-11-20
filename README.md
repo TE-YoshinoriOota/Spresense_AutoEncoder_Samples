@@ -1,1 +1,1 @@
-# Spresense_AutoEncoder_Sample
+# Spresense_AutoEncoder_Samples
